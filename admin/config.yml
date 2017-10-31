@@ -1,7 +1,8 @@
 backend:
   name: github
-  repo: owner/repo # Path to your Github repository
+  repo: bricksandgreens/brick-and-greens # Path to your Github repository
   branch: master # Branch to update (master by default)
+  site_domain: https://priest-daughters-34580.netlify.com
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
 

@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: bricksandgreens/brick-and-greens # Path to your Github repository
+  repo: brickandgreens/brick-and-greens # Path to your Github repository
   branch: master # Branch to update (master by default)
   site_domain: https://priest-daughters-34580.netlify.com
 
